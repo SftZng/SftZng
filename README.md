@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm an engineer specialized in embedded systems, hardware design, and artificial intelligence applications. At Milsan Elektronik, I actively contribute to the development of both hardware and software, from idea to product. My goal is to take part in innovative projects and develop sustainable, functional solutions in multidisciplinary teams.
+I'm an engineer specialized in embedded systems, hardware design, and artificial intelligence applications. I actively contribute to the development of both hardware and software, from idea to product. My goal is to take part in innovative projects and develop sustainable, functional solutions in multidisciplinary teams.
 
 ---
 
